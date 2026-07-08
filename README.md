@@ -7,7 +7,7 @@ Postman API Documentation Process
 This is the initial release of the API Documentation project created as part of a Technical Writing portfolio.
 
 ## New Documentation
-- Created API Overviwe section.
+- Created API Overview section.
 - Documented authentication requirement.
 - Added endpoints descriptions for GET and POST operations.
 - Included request and response samples.
