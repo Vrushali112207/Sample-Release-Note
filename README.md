@@ -9,7 +9,7 @@ This is the initial release of the API Documentation project created as part of 
 ## New Documentation
 - Created API Overviwe section.
 - Documented authentication requirement.
-- Added endpointsv descriptions for GET and POST operations.
+- Added endpoints descriptions for GET and POST operations.
 - Included request and response samples.
 - Added HTTP status code reference table.
 - Created error response documentation.
